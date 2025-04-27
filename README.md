@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Georgiana Antonie</h1>
+<h1 align="center">Hi 👋, I'm Georgiana</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=7C44B3&width=600&lines=A+passionate+Frontend+Developer" alt="Typing SVG" /></a>
 <hr/>
 <h3>🧩 About Me</h3>
