@@ -7,12 +7,11 @@
 
 <br/>
 <h3>🛠 Skills</h3>
-<p><b>Programming Languages:</b> JavaScript, TypeScript, Python</p>
-<p><b>Frameworks:</b> Django, Flask</p>
-<p><b>Frontend Development:</b> Vue.js, Nuxt.js, HTML, CSS</p>
-<p><b>Backend Development:</b> Node.js</p>
-<p><b>Databases:</b> MySQL</p>
-<p><b>Software & Design Tools:</b>  Adobe Illustrator, Figma</p>
+<p><b>Languages:</b> JavaScript, TypeScript, Python</p>
+<p><b>Frontend:</b> Vue.js, Nuxt.js, HTML, CSS</p>
+<p><b>Backend:</b> Node.js, Django, Flask</p>
+<p><b>Databases:</b> SQLite, PostgreSQL</p>
+<p><b>Software & Design Tools:</b>  Figma, Adobe Photoshop, Adobe Illustrator</p>
 
 <br/>
 <h3 align="left">🌐 Connect with me:</h3>
